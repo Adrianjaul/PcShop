@@ -1,0 +1,182 @@
+[
+    {
+        "id": "portátil-01",
+        "titulo": "Portátil 01",
+        "imagen": "./img/portátiles/01.jpg",
+        "categoria": {
+            "nombre": "Portátiles",
+            "id": "portátiles"
+        },
+        "precio": 675
+    },
+    {
+        "id": "portátil-02",
+        "titulo": "Portátil 02",
+        "imagen": "./img/portátiles/02.jpg",
+        "categoria": {
+            "nombre": "Portátiles",
+            "id": "portátiles"
+        },
+        "precio": 1280
+    },
+    {
+        "id": "portátil-03",
+        "titulo": "Portátil 03",
+        "imagen": "./img/portátiles/03.jpg",
+        "categoria": {
+            "nombre": "Portátiles",
+            "id": "portátiles"
+        },
+        "precio": 995
+    },
+    {
+        "id": "portátil-04",
+        "titulo": "Portátil 04",
+        "imagen": "./img/portátiles/04.jpg",
+        "categoria": {
+            "nombre": "Portátiles",
+            "id": "portátiles"
+        },
+        "precio": 1633
+    },
+    {
+        "id": "portátil-05",
+        "titulo": "Portátil 05",
+        "imagen": "./img/portátiles/05.jpg",
+        "categoria": {
+            "nombre": "Portátiles",
+            "id": "portátiles"
+        },
+        "precio": 550
+    },
+    {
+        "id": "pc-01",
+        "titulo": "Pc Sobremesa 01",
+        "imagen": "./img/sobremesa/01.jpg",
+        "categoria": {
+            "nombre": "Sobremesa",
+            "id": "sobremesa"
+        },
+        "precio": 849.01
+    },
+    {
+        "id": "pc-02",
+        "titulo": "Pc Sobremesa 02",
+        "imagen": "./img/sobremesa/02.jpg",
+        "categoria": {
+            "nombre": "Sobremesa",
+            "id": "sobremesa"
+        },
+        "precio": 959.35
+    },
+    {
+        "id": "pc-03",
+        "titulo": "Pc Sobremesa 03",
+        "imagen": "./img/sobremesa/03.jpg",
+        "categoria": {
+            "nombre": "Sobremesa",
+            "id": "sobremesa"
+        },
+        "precio": 719.90
+    },
+    {
+        "id": "pc-04",
+        "titulo": "Pc Sobremesa 04",
+        "imagen": "./img/sobremesa/04.jpg",
+        "categoria": {
+            "nombre": "Sobremesa",
+            "id": "sobremesa"
+        },
+        "precio": 1249.05
+    },
+    {
+        "id": "pc-05",
+        "titulo": "Pc Sobremesa 05",
+        "imagen": "./img/sobremesa/05.jpg",
+        "categoria": {
+            "nombre": "Sobremesa",
+            "id": "sobremesa"
+        },
+        "precio": 959
+    },
+    {
+        "id": "pc-06",
+        "titulo": "Pc Sobremesa 06",
+        "imagen": "./img/sobremesa/06.jpg",
+        "categoria": {
+            "nombre": "Sobremesa",
+            "id": "sobremesa"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "pc-07",
+        "titulo": "Pc Sobremesa 07",
+        "imagen": "./img/sobremesa/07.jpg",
+        "categoria": {
+            "nombre": "Sobremesa",
+            "id": "sobremesa"
+        },
+        "precio": 575.80
+    },
+    {
+        "id": "pc-08",
+        "titulo": "Pc Sobremesa 08",
+        "imagen": "./img/sobremesa/08.jpg",
+        "categoria": {
+            "nombre": "Sobremesa",
+            "id": "sobremesa"
+        },
+        "precio": 1520.20
+    },
+    {
+        "id": "gaming-01",
+        "titulo": "Volante 01",
+        "imagen": "./img/gaming/01.jpg",
+        "categoria": {
+            "nombre": "Gaming",
+            "id": "gaming"
+        },
+        "precio": 315.50
+    },
+    {
+        "id": "gaming-02",
+        "titulo": "Joystick 02",
+        "imagen": "./img/gaming/02.jpg",
+        "categoria": {
+            "nombre": "Gaming",
+            "id": "gaming"
+        },
+        "precio": 145.20
+    },
+    {
+        "id": "gaming-03",
+        "titulo": "Teclado Mecánico 03",
+        "imagen": "./img/gaming/03.jpg",
+        "categoria": {
+            "nombre": "Gaming",
+            "id": "gaming"
+        },
+        "precio": 52.42
+    },
+    {
+        "id": "gaming-04",
+        "titulo": "Ratón Gaming 04",
+        "imagen": "./img/gaming/04.jpg",
+        "categoria": {
+            "nombre": "Gaming",
+            "id": "gaming"
+        },
+        "precio": 8.99
+    },
+    {
+        "id": "gaming-05",
+        "titulo": "Cascos Gaming",
+        "imagen": "./img/gaming/05.jpg",
+        "categoria": {
+            "nombre": "Gaming",
+            "id": "gaming"
+        },
+        "precio": 94.99
+    }
+]
